@@ -21,7 +21,7 @@
 このプロジェクトはCMakeを使用してビルドします。以下の手順に従ってください：
 
 Microsoft Visual Studio Community 2022をインストールします。<br />
-以下のリンクからダウンロードしてください↓
+以下のリンクからダウンロードしてください↓<br />
 https://visualstudio.microsoft.com/ja/vs/community/
 
 vcpkgをインストールします。
